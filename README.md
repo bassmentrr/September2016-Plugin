@@ -36,7 +36,7 @@ dotnet build
 The compiled plugin will be located at:
 
 ```bash
-bin/Debug/net9.0/BassmentPlugin.dll
+bin/Debug/net35/BassmentPlugin.dll
 ```
 
 ### 3. Install the plugin
